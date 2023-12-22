@@ -41,6 +41,7 @@ Centilmenler(Cengizhan BAYRAM,Ferhat KÜRKÇÜOĞLU,Ümit ÜNAL)
 
 # Strategy: Chandy/Misra Solution
 Kadir Karaduman, Berke Yıldız, Evren Yalnız
+Barış Akın,Emir Sercan Korkmazgil
 
 # Strategy: Dijkstra's Solution
 Emre Özcan, Elanur İleri, Sema Nimet Ünal
